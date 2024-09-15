@@ -1,1 +1,5 @@
-* text eol=lf
+*.rs eol=lf
+*.md eol=lf
+*.toml eol=lf
+*.gitignore eol=lf
+.gitattributes eol=lf
