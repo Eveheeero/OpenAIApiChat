@@ -1,0 +1,12 @@
+[package]
+name = "openai_api_chat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "*"
+serde = { version = "*", features = ["derive"] }
+serde_json = "*"
+sled = "0.34.7"
+tokio = { version = "*", features = ["full"] }
+reqwest = "0.11.18"

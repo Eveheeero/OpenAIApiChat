@@ -1,0 +1,3 @@
+*.rs eol=lf
+*.md eol=lf
+*.toml eol=lf
